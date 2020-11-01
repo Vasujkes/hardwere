@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ea39f83-a17a-49ef-9698-40ae6abef75f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.15.2/libexec" />
+  <component name="ProjectId" id="1jeOpA2lc9YjOH53WokZHllS0jS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sql" />
+      <recent name="$PROJECT_DIR$/data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Docker.Dockerfile">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GoRest" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestCategoryModel_Validate in category_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="GoRest" />
+      <working_directory value="$PROJECT_DIR$/api/models" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/api/models/category_test.go" />
+      <pattern value="^\QTestCategoryModel_Validate\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestProductModel_Validate in product_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="GoRest" />
+      <working_directory value="$PROJECT_DIR$/api/models" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/api/models/product_test.go" />
+      <pattern value="^\QTestProductModel_Validate\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="product_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="GoRest" />
+      <working_directory value="$PROJECT_DIR$/api/models" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/api/models/product_test.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="imageTag" value="" />
+          <option name="buildCliOptions" value="" />
+          <option name="command" value="" />
+          <option name="containerName" value="" />
+          <option name="entrypoint" value="" />
+          <option name="commandLineOptions" value="" />
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Docker.Dockerfile" />
+      <item itemvalue="Go Build.go build main.go" />
+      <item itemvalue="Go Test.product_test.go" />
+      <item itemvalue="Go Test.TestCategoryModel_Validate in category_test.go" />
+      <item itemvalue="Go Test.TestProductModel_Validate in product_test.go" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Test.TestCategoryModel_Validate in category_test.go" />
+        <item itemvalue="Go Test.product_test.go" />
+        <item itemvalue="Go Test.TestProductModel_Validate in product_test.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="484" y="152" key="#Docker" timestamp="1604168465203">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state x="484" y="152" key="#Docker/0.23.1440.824/1440.-895.1920.1057@0.23.1440.824" timestamp="1604168465203" />
+    <state x="320" y="100" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604179487062">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state x="320" y="100" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.824@0.23.1440.824" timestamp="1604179487062" />
+    <state x="308" y="157" key="DBNavigator.DatasetFilterDialog" timestamp="1604220553523">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state x="308" y="157" key="DBNavigator.DatasetFilterDialog/0.23.1440.824@0.23.1440.824" timestamp="1604220553523" />
+    <state x="34" y="81" key="DBNavigator.ProjectSettingsDialog" timestamp="1604220306179">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state x="34" y="81" key="DBNavigator.ProjectSettingsDialog/0.23.1440.824/1440.-895.1920.1057@0.23.1440.824" timestamp="1604171996465" />
+    <state x="34" y="81" key="DBNavigator.ProjectSettingsDialog/0.23.1440.824@0.23.1440.824" timestamp="1604220306179" />
+    <state width="1398" height="213" key="GridCell.Tab.0.bottom" timestamp="1604180550536">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state width="1398" height="264" key="GridCell.Tab.0.bottom/0.23.1440.824/1440.-895.1920.1057@0.23.1440.824" timestamp="1604162059220" />
+    <state width="1398" height="213" key="GridCell.Tab.0.bottom/0.23.1440.824@0.23.1440.824" timestamp="1604180550536" />
+    <state width="1398" height="213" key="GridCell.Tab.0.center" timestamp="1604180550535">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state width="1398" height="264" key="GridCell.Tab.0.center/0.23.1440.824/1440.-895.1920.1057@0.23.1440.824" timestamp="1604162059219" />
+    <state width="1398" height="213" key="GridCell.Tab.0.center/0.23.1440.824@0.23.1440.824" timestamp="1604180550535" />
+    <state width="1398" height="213" key="GridCell.Tab.0.left" timestamp="1604180550533">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state width="1398" height="264" key="GridCell.Tab.0.left/0.23.1440.824/1440.-895.1920.1057@0.23.1440.824" timestamp="1604162059218" />
+    <state width="1398" height="213" key="GridCell.Tab.0.left/0.23.1440.824@0.23.1440.824" timestamp="1604180550533" />
+    <state width="1398" height="213" key="GridCell.Tab.0.right" timestamp="1604180550535">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state width="1398" height="264" key="GridCell.Tab.0.right/0.23.1440.824/1440.-895.1920.1057@0.23.1440.824" timestamp="1604162059219" />
+    <state width="1398" height="213" key="GridCell.Tab.0.right/0.23.1440.824@0.23.1440.824" timestamp="1604180550535" />
+    <state x="221" y="74" key="SettingsEditor" timestamp="1604170999482">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state x="221" y="74" key="SettingsEditor/0.23.1440.824/1440.-895.1920.1057@0.23.1440.824" timestamp="1604170999482" />
+    <state width="200" height="160" key="TextEditor.description" timestamp="1604221199301">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state width="200" height="160" key="TextEditor.description/0.23.1440.824@0.23.1440.824" timestamp="1604221199301" />
+    <state x="421" y="67" width="598" height="735" key="find.popup" timestamp="1604175926139">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state x="421" y="67" width="598" height="735" key="find.popup/0.23.1440.824@0.23.1440.824" timestamp="1604175926139" />
+  </component>
+</project>
